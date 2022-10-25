@@ -1,0 +1,114 @@
+{
+  "tweets": {
+    "-NFB-DYPZDADT0vA0J1b": {
+      "author": {
+        "handle": "ajarmusch08",
+        "name": "Aaron Jarmusch",
+        "pic": "https://lh3.googleusercontent.com/a/ALm5wu0xiu-hNodqFqEids1mJUvjadKqX6gQsJM28OqZuuc=s96-c"
+      },
+      "content": "helllo",
+      "likes": 1,
+      "timestamp": 1666648697062
+    },
+    "-NFB-FAIs9uSS65RuuPA": {
+      "author": {
+        "handle": "ajarmusch08",
+        "name": "Aaron Jarmusch",
+        "pic": "https://lh3.googleusercontent.com/a/ALm5wu0xiu-hNodqFqEids1mJUvjadKqX6gQsJM28OqZuuc=s96-c"
+      },
+      "content": "helllo",
+      "likes": 1,
+      "timestamp": 1666648703711
+    },
+    "-NFB0H48q5UEK8BIEXCV": {
+      "author": {
+        "handle": "ajarmusch08",
+        "name": "Aaron Jarmusch",
+        "pic": "https://lh3.googleusercontent.com/a/ALm5wu0xiu-hNodqFqEids1mJUvjadKqX6gQsJM28OqZuuc=s96-c"
+      },
+      "content": "hello",
+      "likes": 1,
+      "timestamp": 1666648973655
+    },
+    "-NFB0IyyxPtTrHlstCad": {
+      "author": {
+        "handle": "ajarmusch08",
+        "name": "Aaron Jarmusch",
+        "pic": "https://lh3.googleusercontent.com/a/ALm5wu0xiu-hNodqFqEids1mJUvjadKqX6gQsJM28OqZuuc=s96-c"
+      },
+      "content": "hello",
+      "likes": 1,
+      "timestamp": 1666648981453
+    },
+    "-NFB0NumHkJcBE6QZ7Ab": {
+      "author": {
+        "handle": "ajarmusch08",
+        "name": "Aaron Jarmusch",
+        "pic": "https://lh3.googleusercontent.com/a/ALm5wu0xiu-hNodqFqEids1mJUvjadKqX6gQsJM28OqZuuc=s96-c"
+      },
+      "content": "so its working",
+      "likes": 1,
+      "timestamp": 1666649001662
+    },
+    "-NFB277YIoZfhF4GcwM6": {
+      "author": {
+        "handle": "ajarmusch08",
+        "name": "Aaron Jarmusch",
+        "pic": "https://lh3.googleusercontent.com/a/ALm5wu0xiu-hNodqFqEids1mJUvjadKqX6gQsJM28OqZuuc=s96-c"
+      },
+      "content": "working??",
+      "likes": 1,
+      "timestamp": 1666649457236
+    },
+    "-NFC25cYVQr8JfrbI92x": {
+      "author": {
+        "handle": "ajarmusch08",
+        "name": "Aaron Jarmusch",
+        "pic": "https://lh3.googleusercontent.com/a/ALm5wu0xiu-hNodqFqEids1mJUvjadKqX6gQsJM28OqZuuc=s96-c"
+      },
+      "content": "is this working",
+      "likes": 0,
+      "timestamp": 1666666228061
+    },
+    "-NFC2k2QmqkMmRfre7Lq": {
+      "author": {
+        "handle": "ajarmusch08",
+        "name": "Aaron Jarmusch",
+        "pic": "https://lh3.googleusercontent.com/a/ALm5wu0xiu-hNodqFqEids1mJUvjadKqX6gQsJM28OqZuuc=s96-c"
+      },
+      "content": "hi hi",
+      "likes": 0,
+      "timestamp": 1666666397708
+    },
+    "key1": {
+      "author": {
+        "handle": "Jack_mino",
+        "name": "Jack Mino",
+        "pic": "https://pbs.twimg.com/profile_images/1012717264108318722/9lP-d2yM_400x400.jpg"
+      },
+      "content": "Just downloaded this app!",
+      "likes": 5,
+      "timestamp": 1234567
+    },
+    "key2": {
+      "author": {
+        "handle": "aaron_jarmusch",
+        "name": "Aaron Jarmusch",
+        "pic": "https://pbs.twimg.com/profile_images/1012717264108318722/9lP-d2yM_400x400.jpg"
+      },
+      "content": "I Just joined twitter",
+      "likes": 6,
+      "timestamp": 2345678
+    }
+  },
+  "users": {
+    "Jack_Mino": {
+      "name": "Jack Mino",
+      "pic": "https://pbs.twimg.com/profile_images/1012717264108318722/9lP-d2yM_400x400.jpg"
+    },
+    "aaron_jarmusch": {
+      "name": "Aaron Jarmusch",
+      "pic": "https://pbs.twimg.com/profile_images/1012717264108318722/9lP-d2yM_400x400.jpg"
+    }
+  }
+}
